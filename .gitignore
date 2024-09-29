@@ -1,0 +1,10 @@
+## IDE Files
+**/*.idea/
+**/*.vscode/
+
+## Build Artifacts
+**/target
+
+## OS Files
+**.DS_Store
+**.*.DS_Store
